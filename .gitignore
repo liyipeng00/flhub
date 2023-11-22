@@ -1,0 +1,9 @@
+/sim/data/raw_partition/
+save/
+runs/
+plots/figs/
+__pycache__
+*.png
+*.pyc
+*.pdf
+nohup.out
